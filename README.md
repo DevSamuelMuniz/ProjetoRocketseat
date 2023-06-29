@@ -13,13 +13,13 @@ Programa de redes sociais de Samuel Muniz. <br/>
 </p>
 
 <p align="center">
-  <img alt="License" src="/assets/fundo.png">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto Samuel Muniz" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Samuel M" src="/assets/fundo.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
