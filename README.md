@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 É um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online]((link da page))
+- [Acesse o projeto finalizado, online](https://devsamuelmuniz.github.io/projeto/)
 
 
 ## 🔖 Layout
