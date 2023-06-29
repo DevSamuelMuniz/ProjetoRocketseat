@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br" class="light">
+<html lang="pt-br">
 <head>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -9,6 +9,7 @@
     <title>Samuel Muniz</title>
     <link rel="shortcut icon" href="assets/minhafoto.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
+    
 </head>
 <body>
     <div id="container">
@@ -16,31 +17,35 @@
             <img src="assets/minhafoto.png" alt="foto de Samuel">
             <p>@samuel_mzz</p>
         </div>
+        <div id="switch" onclick="toggleMode()">
+            <button></button>
+            <span></span>
+        </div>
         <ul>
             <li>
-                <a href="https://www.linkedin.com/in/samuel-muniz-4b5a3126a/">Linkedin</a>
+                <a target="_blank" href="https://www.linkedin.com/in/samuel-muniz-4b5a3126a/">Linkedin</a>
             </li>
 
             <li>
-                <a href="https://www.instagram.com/samuel_mzz/">Instagram</a>
+                <a target="_blank" href="https://www.instagram.com/samuel_mzz/">Instagram</a>
             </li>
 
             <li>
-                <a href="https://wa.link/40rj49">Whatsapp</a>
+                <a target="_blank" href="https://wa.link/40rj49">Whatsapp</a>
             </li>
 
             <li>
-                <a href="https://sites.google.com/fac.pe.senac.br/samuelmuniz/home">Portfólio</a>
+                <a target="_blank" href="https://sites.google.com/fac.pe.senac.br/samuelmuniz/home">Portfólio</a>
             </li>
         </ul>
         <div id="social-link">
-            <a href="https://github.com/DevSamuelMuniz/">
+            <a target="_blank" href="https://github.com/DevSamuelMuniz/">
                 <ion-icon name="logo-github"></ion-icon></a>
-            <a href="https://www.instagram.com/samuel_mzz/">
+            <a target="_blank" href="https://www.instagram.com/samuel_mzz/">
                 <ion-icon name="logo-instagram"></ion-icon></a>
-            <a href="https://wa.link/40rj49/">
+            <a target="_blank" href="https://wa.link/40rj49/">
                 <ion-icon name="logo-whatsapp"></ion-icon></a>
-            <a href="https://www.linkedin.com/in/samuel-muniz-4b5a3126a/">
+            <a target="_blank" href="https://www.linkedin.com/in/samuel-muniz-4b5a3126a/">
                 <ion-icon name="logo-linkedin"></ion-icon></a>           
             
         </div>
@@ -57,5 +62,6 @@
         type="module"
         src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
     ></script>
+    <script src="script.js"></script>
 </body>
 </html>
